@@ -12,7 +12,7 @@ task hello {
 		memory: mem + "GB"                                                     
 	}
 	meta {
-		author: "Fenglin Chen"
+		author: "Fenglin Chen  (practicing)"
 	}
 }
 
